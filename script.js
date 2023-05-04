@@ -1,4 +1,3 @@
-//your JS code here. If required.
 const questions = [
   {
     question: "What is the capital of France?",
